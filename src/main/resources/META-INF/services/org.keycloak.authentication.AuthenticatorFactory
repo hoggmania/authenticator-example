@@ -1,0 +1,2 @@
+org.keycloak.example.bankid.UsernameFormFactory
+org.keycloak.example.bankid.BankIdAuthenticatorFactory
